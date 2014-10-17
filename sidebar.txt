@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goa:home|Door43 (goa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goa|d43-goa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goa/archive/master.zip|d43-goa.zip]]
+
+**Recent Changes**
+{{changes>ns = goa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goa|Ethnologue data]]
+
